@@ -1,0 +1,18 @@
+{
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+  "typescript.format.enable": false,
+  "typescript.validate.enable": false,
+  // Linting
+  "eslint.format.enable": true,
+  "eslint.nodePath": "/home/ahellwig/.nvm/versions/node/v12.10.0/bin/node",
+  "eslint.packageManager": "yarn",
+  "eslint.options": {
+    "configFile": ".eslintrc.js"
+  }
+}
