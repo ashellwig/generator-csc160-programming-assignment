@@ -14,5 +14,8 @@
   "eslint.packageManager": "yarn",
   "eslint.options": {
     "configFile": ".eslintrc.js"
-  }
+  },
+  "standard.enable": false,
+  "latex-workshop.latex.autoBuild.run": "never",
+  "licenser.license": "AGPLv3"
 }
